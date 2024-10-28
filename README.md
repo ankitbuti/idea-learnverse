@@ -1,2 +1,0 @@
-# idea-learnverse
-Idea Learnverse
