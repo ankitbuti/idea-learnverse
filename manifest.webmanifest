@@ -1,0 +1,15 @@
+{
+    "name": "Idea Learnverse",
+    "short_name": "Idea Learnverse",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000",
+    "description": "Step into an open-world adventure to build your startup from the ground up, facing real-world challenges and unlocking your path to success.",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
